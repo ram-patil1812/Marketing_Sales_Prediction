@@ -28,9 +28,13 @@ In this project I apply simple linear regression and multiple linear regeression
    Formula: Y = β0 + β1X + e
 
    Y = Dependent variable / Target variable
+   
    β0 = Intercept of the regression line 
+   
    β1 = Slope of the regression lime which tells whether the line is increasing or decreasing
+   
    X = Independent variable / Predictor variable
+   
    e = Error
    
    Equation: Sales = β0 + β1X + TV
