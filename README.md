@@ -15,6 +15,7 @@ In this project I apply simple linear regression and multiple linear regeression
    2. How Sales are related with other variables
    3. Feature selection
 4) Model Building:
+
    Linear Regression is a useful tool for predicting a quantitative response.
    Prediction using: 1. Simple Linear Regression 2. Multiple Linear Regression
 
